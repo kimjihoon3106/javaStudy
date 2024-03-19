@@ -10,6 +10,5 @@ public class NestedEx2 {
             }
             System.out.println();
         }
-
     }
 }
