@@ -17,6 +17,7 @@ public class ArrayDi0 {
         System.out.print(arr[0][1]+" ");
         System.out.print(arr[0][2]+" ");
         System.out.println();//한 행이 끝나면 라인을 변경한다
+
         //1행 출력
         System.out.print(arr[1][0]+" ");
         System.out.print(arr[1][1]+" ");
